@@ -1,0 +1,15 @@
+{
+  "title": "5 Segredos Para Criar Sites Incríveis (Gustavo Campelo)",
+  "summary": "Vídeo de 27:45 do Gustavo Campelo com 5 pilares/segredos para criar sites de alto nível. Foca em workflow de design-to-code com Figma + Claude Code, animações scroll-triggered, micro-interações, hierarquia visual e otimização de performance (WebP/WebM). Há comentário importante de @rplmartins alertando sobre impacto de animações pesadas no PageSpeed — performance deve ser balanceada com estética.",
+  "source_url": "https://www.youtube.com/watch?v=ZmLx28d1bkE",
+  "channel": "Gustavo Campelo - Desenvolvedor",
+  "created_at": "2026-05-01",
+  "video_date": "2026-03-04",
+  "views": "8962",
+  "tags": ["5 segredos", "sites incríveis", "figma", "claude code", "scroll animation", "micro-interações", "hierarquia visual", "performance", "pagespeed", "webdesign", "frontend"],
+  "references": [
+    "https://www.youtube.com/watch?v=ZmLx28d1bkE",
+    "https://gustavocampelo.com.br/comunidade-webhub/",
+    "https://hostinger.com.br/gustavocampelo"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Como criar landing pages ÉPICAS com IA (Cursor ou Antigravity)",
+  "summary": "Vídeo de Arthur Marquez ensinando o conceito de 'Dramaturgia Visual' para prompts. O foco é evitar pedir código direto para a IA e, em vez disso, definir uma narrativa de scroll e uma identidade visual primeiro. Usa o Claude configurado como 'Diretor Criativo Sênior'. Adaptamos este framework diretamente para o Antigravity.",
+  "source_url": "https://www.youtube.com/watch?v=rLZsqDW_SP8",
+  "channel": "Arthur Marquez",
+  "created_at": "2026-05-01",
+  "tags": ["prompt engineering", "dramaturgia visual", "claude", "antigravity", "diretor de arte", "briefing"],
+  "references": [
+    "https://www.youtube.com/watch?v=rLZsqDW_SP8",
+    "https://github.com/arthurmarquez/awesome-design-md"
+  ]
+}

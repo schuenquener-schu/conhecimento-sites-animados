@@ -1,5 +1,5 @@
 # 🚀 GUIA MESTRE — Sites Animados de Alto Nível
-> Consolidação de 3 vídeos: Gustavo Campelo (2x) + Enzo Barbatto
+> Consolidação de 5 vídeos sobre sites e landing pages épicas
 > Atualizado em: 2026-05-01
 
 ---
@@ -11,12 +11,15 @@
 | 1 | [Criar Sites Animados Nunca Foi Tão Rápido](https://www.youtube.com/watch?v=jNIXAjLxv44) | Gustavo Campelo | Figma MCP + Claude Code + Spline |
 | 2 | [Antigravity + Nano Banana 2 = R$25.000](https://www.youtube.com/watch?v=HrMVakatQHk) | Enzo Barbatto | Nano Banana + Kling + Scroll Video |
 | 3 | [5 Segredos Para Sites Incríveis](https://www.youtube.com/watch?v=ZmLx28d1bkE) | Gustavo Campelo | 5 Pilares do Design Premium |
+| 4 | [Landing Page com IA Sem Parecer IA](https://www.youtube.com/watch?v=TZ-JiwmZenM) | Tom Melo | Gravyx + Fuga do estilo genérico + Micro-interações |
+| 5 | [Criar landing pages ÉPICAS com IA](https://www.youtube.com/watch?v=rLZsqDW_SP8) | Arthur Marquez | Prompt Engineering: Dramaturgia Visual |
 
 ---
 
 ## 🏗️ STACK COMPLETO
 
 ### Geração de Assets com IA
+- **Gravyx** → Imagens e assets com estilo realista/fotográfico (evita o "visual IA genérico")
 - **Nano Banana 2** → Imagens de produto premium com IA
 - **Kling 3.0** → Image-to-Video (cria animação a partir da imagem)
 - **Flow** → Exportação de vídeo animado (cuidado com gradientes em 1080p)
@@ -27,8 +30,9 @@
 - **Firecrawl** → Faz scraping de site de referência para a IA usar
 
 ### Programação com IA
-- **Antigravity** → Geração de código e estrutura do site
-- **Claude Code** → Transformação do design em código HTML/CSS/JS
+- **Antigravity** → Nosso motor principal para geração de código e estrutura. Age como "Diretor Criativo" (Dramaturgia Visual) antes de codar.
+- **Claude Code / Cursor** → Ferramentas base de IA para desenvolvimento
+- **Aura.Build** → Geração do esqueleto e layout visual para ser refinado no Antigravity
 
 ### Elementos 3D
 - **Spline** → Objetos 3D interativos sem precisar de Three.js
@@ -50,9 +54,16 @@
 
 ---
 
-## ⚙️ WORKFLOW DEFINITIVO DE PROJETO
+## ⚙️ WORKFLOW DEFINITIVO DE PROJETO (Framework Dramaturgia Visual)
 
 ```
+╔════════════════════════════════════════════════╗
+║          FASE 0 — BRIEFING (DIREÇÃO DE ARTE)   ║
+╠════════════════════════════════════════════════╣
+║  • Antigravity atua como Diretor Criativo      ║
+║  • Definir: Sensação, Público, Energia e CTA   ║
+║  • Usar referências reais (repo awesome-design)║
+║  • Mapear a Dramaturgia Visual (tensão/alívio) ║
 ╔════════════════════════════════════════════════╗
 ║          FASE 1 — REFERÊNCIA E ASSETS          ║
 ╠════════════════════════════════════════════════╣
@@ -175,8 +186,9 @@ ffmpeg -i input.mp4 -c:v libvpx-vp9 -crf 40 -b:v 0 -vf scale=1920:-1 -an output.
 - **Vídeo 1:** https://youtu.be/jNIXAjLxv44
 - **Vídeo 2:** https://youtu.be/HrMVakatQHk
 - **Vídeo 3:** https://youtu.be/ZmLx28d1bkE
-- **Comunidade WebHub:** https://gustavocampelo.com.br/comunidade-webhub/
-- **MasterClass:** https://sparo.com.br/masterclass
+- **Vídeo 4 (Tom Melo):** https://youtu.be/TZ-JiwmZenM
+- **Vídeo 5 (Arthur Marquez):** https://youtu.be/rLZsqDW_SP8
+- **Repo Identidade Visual:** https://github.com/arthurmarquez/awesome-design-md
+- **Gravyx (Imagens):** https://gravyx.com.br/
 - **Squoosh (WebP):** https://squoosh.app
 - **Spline 3D:** https://spline.design
-- **Hostinger (10% OFF):** cupom `GUSTAVOCAMPELO` ou `SPARO10`

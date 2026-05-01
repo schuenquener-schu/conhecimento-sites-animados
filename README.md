@@ -15,6 +15,7 @@ Conhecimento extraído de 5 vídeos sobre criação de sites animados premium.
 | [`conhecimento_video3.md`](./sites-animados-workflow/artifacts/conhecimento_video3.md) | Vídeo 3: 5 Segredos + Performance |
 | [`conhecimento_video4.md`](./sites-animados-workflow/artifacts/conhecimento_video4.md) | Vídeo 4: Gravyx + Fuga do estilo genérico + Micro-interações |
 | [`conhecimento_video5.md`](./sites-animados-workflow/artifacts/conhecimento_video5.md) | Vídeo 5: Prompt Engineering: Dramaturgia Visual |
+| [`motor_de_animacao.md`](./sites-animados-workflow/artifacts/motor_de_animacao.md) | O Motor: Lenis, GSAP, Framer Motion e R3F |
 
 ## 🛠️ Stack Aprendida
 
@@ -22,6 +23,7 @@ Conhecimento extraído de 5 vídeos sobre criação de sites animados premium.
 - **Kling 3.0** — Image-to-Video para animações 3D
 - **Figma + MCP** — Design conectado ao editor de código
 - **Antigravity** — Motor principal (Diretor Criativo)
+- **Lenis + GSAP + Framer Motion** — O Motor de Animação Front-end
 - **Aura.Build** — Esqueleto visual
 - **Spline** — Elementos 3D interativos
 - **FFMPEG** — Otimização de vídeos para web (WebM)

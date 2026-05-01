@@ -13,6 +13,7 @@
 | 3 | [5 Segredos Para Sites Incríveis](https://www.youtube.com/watch?v=ZmLx28d1bkE) | Gustavo Campelo | 5 Pilares do Design Premium |
 | 4 | [Landing Page com IA Sem Parecer IA](https://www.youtube.com/watch?v=TZ-JiwmZenM) | Tom Melo | Gravyx + Fuga do estilo genérico + Micro-interações |
 | 5 | [Criar landing pages ÉPICAS com IA](https://www.youtube.com/watch?v=rLZsqDW_SP8) | Arthur Marquez | Prompt Engineering: Dramaturgia Visual |
+| 6 | Curadoria de 8 Vídeos de Código | Diversos | O Motor: Lenis, GSAP, Framer Motion e R3F |
 
 ---
 
@@ -29,9 +30,13 @@
 - **MCP (Model Context Protocol)** → Conecta Figma ao VS Code
 - **Firecrawl** → Faz scraping de site de referência para a IA usar
 
-### Programação com IA
+### Programação com IA & Motor de Animação Front-end
 - **Antigravity** → Nosso motor principal para geração de código e estrutura. Age como "Diretor Criativo" (Dramaturgia Visual) antes de codar.
 - **Claude Code / Cursor** → Ferramentas base de IA para desenvolvimento
+- **Lenis Scroll** → Smooth scroll nativo (Efeito Apple)
+- **GSAP (ScrollTrigger)** → Narrativas de scroll complexas e timelines
+- **Framer Motion** → Micro-interações e transições em React
+- **React Three Fiber (R3F)** → Elementos 3D gerados nativamente via código (caminhos curvos, shaders)
 - **Aura.Build** → Geração do esqueleto e layout visual para ser refinado no Antigravity
 
 ### Elementos 3D
